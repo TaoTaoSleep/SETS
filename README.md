@@ -25,3 +25,5 @@ Space Engineers Workshop AI Localization
 制作图形界面
 
 完善标签匹配机制，实现更全面的汉化
+
+![yjtp](https://github.com/user-attachments/assets/647aafd4-9f5f-472f-882a-4238a88861d3)
